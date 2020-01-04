@@ -1,2 +1,0 @@
-# TutorialJavascriptAnimatedNavbar
-Created with CodeSandbox
